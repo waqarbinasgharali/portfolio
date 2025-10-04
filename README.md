@@ -7,7 +7,7 @@ Waqar asghar Portfolio website
 ├── about.html
 ├── resume.html
 ├── tools & skills.html
-├── portfolio.html
+├── projects.html
 ├── testimonials.html
 ├── contact.html
 │
