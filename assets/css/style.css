@@ -29,7 +29,7 @@ body{margin:0;font-family:Inter, system-ui, -apple-system, "Segoe UI", Roboto, A
 .side-nav{list-style:none;padding:0;margin:10px 0 0;width:100%}
 .side-nav li{width:100%}
 .side-nav a{
-  display:block;padding:12px 16px;margin:6px auto;border-radius:8px;text-decoration:none;color:var(--muted);font-weight:700;
+  display:block;padding:6px 16px;margin:6px auto;border-radius:8px;text-decoration:none;color:var(--muted);font-weight:700;
   transition:all var(--transition);
   width:100%;text-align:left;
 }
