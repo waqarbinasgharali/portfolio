@@ -3,7 +3,7 @@
 Cybersolutions.top 
 Waqar asghar Portfolio website
 │
-├── home.html
+├── index.html
 ├── about.html
 ├── resume.html
 ├── tools & skills.html
